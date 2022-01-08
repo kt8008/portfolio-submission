@@ -8,7 +8,9 @@ PermissionError: [Errno 13] Permission denied: '/Applications/MuseScore 3.5.app'
 run the program again. 
 
 To replace the piece name,go to line 195 in patternfinder.py and replace the text within the quotation marks. 
+
 Ex: thePiece = ryans.search('JacksonsFancyJig')
+
 Here are some more pieces you can try(don't add spaces in between words):
 
 	- EmpressClog
